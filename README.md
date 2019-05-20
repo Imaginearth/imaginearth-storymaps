@@ -6,7 +6,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 
 ## [Live Demo](https://imaginearth.github.io/imaginearth-storymaps/index.html)
 - The map is hosted by GitHub and can be found at https://imaginearth.github.io/imaginearth-storymaps/index.html
-- Google Sheets template https://docs.google.com/spreadsheets/d/1AO6XHL_0JafWZF4KEejkdDNqfuZWUk3SlNlQ6MjlRFM/
+- Google Sheets template https://docs.google.com/spreadsheets/d/1uqli1Mfr93K97oZFnyIajaRpm6vso5pXkCqZnpQt1-M/edit#gid=0
 
 ## Create Your Own
 - See step-by-step tutorial in *Data Visualization for All* https://datavizforall.org/leaflet-storymaps-with-google-sheets.html
